@@ -1,5 +1,5 @@
 # UIC OpenStreetMap
-
+<img src="./image.jpeg" alt="My Image" width="1000"/>
 This project allows users to find the shortest paths on a map represented as a graph. It involves implementing a graph data structure, parsing real-world map data (from OpenStreetMap via JSON), and applying Dijkstra's algorithm for pathfinding, specifically tailored for the UIC campus map.
 ## Features
 
@@ -19,7 +19,7 @@ This project allows users to find the shortest paths on a map represented as a g
 
 ### Installation/Build
 
-1.  **Clone/Download:** Obtain the project source code.
+1.  **Clone/Download:** Git clone.
 2.  **Add JSON Library:** Place the chosen C++ JSON library header file(s) in the project's root directory.
 3.  **Build Executables using Make:**
     * Build tests:
