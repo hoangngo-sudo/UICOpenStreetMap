@@ -43,3 +43,8 @@ make test_all       # Run all tests
 make test_graph     # Run only graph implementation tests
 make test_build_graph # Run only graph building tests
 make test_dijkstra  # Run only Dijkstra algorithm tests
+```
+
+### Acknowledgement
+
+This project belongs to my data structure class. It is strictly for educational purposes.
